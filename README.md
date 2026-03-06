@@ -1,2 +1,1 @@
-# Vault-4.0v
-Private AI security command center — single-file, zero-server, runs entirely in your browser
+VAULT is a personal security command center that runs as a single HTML file — no installation, no server, no backend. It combines a private AI assistant (powered by Anthropic's Claude) with a suite of real browser-based security tools: permission auditing, network analysis, dark web breach scanning, location spoofing, threat intelligence, and more.
